@@ -1,0 +1,4 @@
+{
+  "presets": ["@nuxt/babel-preset-app"]
+  // "plugins": ["babel-plugin-glsl", "@emotion/babel-plugin", "macros"]
+}
