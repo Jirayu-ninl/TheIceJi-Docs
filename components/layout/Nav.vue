@@ -20,7 +20,7 @@
       <div>
         <img
           id="nav_logo"
-          src="logo_white.svg"
+          src="/logo_white.svg"
           alt="TheIceJi logo"
           class="h-12 w-12"
         />
