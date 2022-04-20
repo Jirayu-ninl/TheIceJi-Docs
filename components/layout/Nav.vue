@@ -1,5 +1,5 @@
 <template>
-  <nav class="absolute w-screen h-24 flex justify-center pt-4">
+  <nav class="absolute w-screen h-24 flex justify-center pt-4 px-4">
     <div
       class="
         container

@@ -11,8 +11,8 @@
       to-background-1
     "
   >
-    <h1 id="title" class="text-8xl font-bold">TheIceJi | Docs</h1>
-    <p id="subTitle" class="text-3xl tracking-wider uppercase opacity-60 pt-6">
+    <h1 id="title" class="text-4xl md:text-5xl lg:text-6xl xxl:text-8xl font-bold">TheIceJi | Docs</h1>
+    <p id="subTitle" class="text-base md:text-xl lg:text-2xl xl:text-3xl tracking-wider uppercase opacity-60 xxl:pt-6">
       Coming soon
     </p>
   </div>
